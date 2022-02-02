@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="Intro">Welcome To Image Changer</string>
+    <string name="Button">Start</string>
+    <string name="Btn1">Change</string>
+    <string name="Btn2">Return home</string>
+</resources>
